@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1794759776654,
+      "tag": "0000_deep_magdalene",
+      "breakpoints": true
+    }
+  ]
+}
